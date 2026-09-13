@@ -1,3 +1,4 @@
+package Jobsheet02;
 public class MahasiswaDemo {
     public static void main(String[] args) {
         Mahasiswa m1 = new Mahasiswa();

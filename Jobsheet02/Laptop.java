@@ -1,4 +1,4 @@
-
+package Jobsheet02;
 public class Laptop {
     public String merek;
     public int ukuranRam;

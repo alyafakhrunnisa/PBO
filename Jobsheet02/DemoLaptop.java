@@ -1,3 +1,4 @@
+package Jobsheet02;
 public class DemoLaptop {
     public static void main(String[] args) {
         // 1. Instansiasi 2 Objek

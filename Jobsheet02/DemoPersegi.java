@@ -1,3 +1,4 @@
+package Jobsheet02;
 public class DemoPersegi {
     public static void main(String[]args){
         PersegiPanjang pp1 = new PersegiPanjang();
