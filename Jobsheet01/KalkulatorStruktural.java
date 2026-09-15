@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class KalkulatorStruktural {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
+    
         System.out.print("Masukkan angka pertama: ");
         double angka1 = input.nextDouble();
         System.out.print("Masukkan operator (+, -, *, /): ");
